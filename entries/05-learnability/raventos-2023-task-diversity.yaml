@@ -1,0 +1,18 @@
+title: Pretraining task diversity and the emergence of non-Bayesian in-context learning for regression
+authors:
+- Allan Raventós
+- Mansheej Paul
+- Feng Chen
+- Surya Ganguli
+year: 2023
+venue: NeurIPS 2023
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2306.15063
+annotation: Identifies a sharp pretraining-task-diversity threshold beyond which transformers switch from in-distribution
+  Bayesian ICL to ridge-regression-like behavior generalizing to unseen tasks.
+tags:
+- in-context-learning
+- task-diversity
+- regression
+added: '2026-05-14'

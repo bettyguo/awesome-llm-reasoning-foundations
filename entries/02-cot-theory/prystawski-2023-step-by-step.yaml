@@ -1,0 +1,17 @@
+title: Why think step by step? Reasoning emerges from the locality of experience
+authors:
+- Ben Prystawski
+- Michael Y. Li
+- Noah D. Goodman
+year: 2023
+venue: null
+category: cot-theory
+links:
+  paper: https://arxiv.org/abs/2304.03843
+annotation: Shows in a Bayesian-network model that CoT helps precisely when training-time evidence is locally connected but
+  globally sparse — chained inference recovers conditional independencies that direct prediction cannot.
+tags:
+- chain-of-thought
+- bayesian-network
+- locality
+added: '2026-05-14'

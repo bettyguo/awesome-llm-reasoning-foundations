@@ -1,0 +1,15 @@
+title: Overcoming a Theoretical Limitation of Self-Attention
+authors:
+- David Chiang
+- Peter Cholak
+year: 2022
+venue: ACL 2022
+category: logical-characterizations
+links:
+  paper: https://arxiv.org/abs/2202.12172
+annotation: Shows that augmenting attention with layer normalization in a particular way lets transformers recognize Parity
+  and Dyck-1 — i.e. the Hahn 2020 obstruction is tied to the specific attention variant studied, not to attention per se.
+tags:
+- parity
+- layer-norm
+added: '2026-05-14'

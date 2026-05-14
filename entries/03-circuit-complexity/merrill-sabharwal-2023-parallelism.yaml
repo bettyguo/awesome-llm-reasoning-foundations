@@ -1,0 +1,16 @@
+title: 'The Parallelism Tradeoff: Limitations of Log-Precision Transformers'
+authors:
+- William Merrill
+- Ashish Sabharwal
+year: 2023
+venue: TACL 2023
+category: circuit-complexity
+links:
+  paper: https://arxiv.org/abs/2207.00729
+annotation: Proves that any log-precision transformer can be simulated by uniform constant-depth threshold circuits (TC0),
+  so a single forward pass cannot decide problems believed to lie outside TC0 (e.g. matrix permanent, S5 word problem).
+tags:
+- TC0
+- log-precision
+- circuit-complexity
+added: '2026-05-14'

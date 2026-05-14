@@ -1,0 +1,14 @@
+title: Auto-Regressive Next-Token Predictors are Universal Learners
+authors:
+- Eran Malach
+year: 2023
+venue: null
+category: cot-theory
+links:
+  paper: https://arxiv.org/abs/2309.06979
+annotation: 'Shows that autoregressive next-token prediction with a chain of thought is a universal learner: any efficiently
+  computable function can be expressed by an autoregressive predictor with polynomially-bounded intermediate token complexity.'
+tags:
+- chain-of-thought
+- universal-learning
+added: '2026-05-14'

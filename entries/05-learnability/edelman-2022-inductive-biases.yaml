@@ -1,0 +1,17 @@
+title: Inductive Biases and Variable Creation in Self-Attention Mechanisms
+authors:
+- Benjamin L. Edelman
+- Surbhi Goel
+- Sham Kakade
+- Cyril Zhang
+year: 2022
+venue: ICML 2022
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2110.10090
+annotation: Proves sample-complexity bounds for self-attention learning sparse Boolean functions, showing the head structure
+  provides an inductive bias that is exponentially more sample-efficient than fully-connected networks on this class.
+tags:
+- sample-complexity
+- sparse-functions
+added: '2026-05-14'

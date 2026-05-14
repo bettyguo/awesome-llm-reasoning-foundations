@@ -1,0 +1,17 @@
+title: Saturated Transformers are Constant-Depth Threshold Circuits
+authors:
+- William Merrill
+- Ashish Sabharwal
+- Noah A. Smith
+year: 2022
+venue: TACL 2022
+category: expressivity
+links:
+  paper: https://arxiv.org/abs/2106.16213
+annotation: Shows that saturated-attention transformers (a hard-attention idealization with averaging over maxima) are simulable
+  by uniform TC0 circuits, placing a hard upper bound on what such transformers can compute.
+tags:
+- circuit-complexity
+- TC0
+- saturated-attention
+added: '2026-05-14'

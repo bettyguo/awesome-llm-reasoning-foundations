@@ -1,0 +1,18 @@
+title: Are Transformers universal approximators of sequence-to-sequence functions?
+authors:
+- Chulhee Yun
+- Srinadh Bhojanapalli
+- Ankit Singh Rawat
+- Sashank J. Reddi
+- Sanjiv Kumar
+year: 2020
+venue: ICLR 2020
+category: expressivity
+links:
+  paper: https://arxiv.org/abs/1912.10077
+annotation: Proves that transformers with fixed width can universally approximate continuous permutation-equivariant sequence-to-sequence
+  functions on compact domains, isolating positional encodings as the source of the non-equivariant extension.
+tags:
+- universal-approximation
+- expressivity
+added: '2026-05-14'

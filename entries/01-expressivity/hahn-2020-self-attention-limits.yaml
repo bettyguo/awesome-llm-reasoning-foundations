@@ -1,0 +1,15 @@
+title: Theoretical Limitations of Self-Attention in Neural Sequence Models
+authors:
+- Michael Hahn
+year: 2020
+venue: TACL 2020
+category: expressivity
+links:
+  paper: https://arxiv.org/abs/1906.06755
+annotation: Shows that hard-attention transformers cannot model Parity or Dyck-2, and that soft-attention transformers solve
+  them only with attention entropy growing in input length — an early formal obstruction to in-distribution length generalization.
+tags:
+- formal-languages
+- hard-attention
+- soft-attention
+added: '2026-05-14'

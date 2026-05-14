@@ -1,0 +1,18 @@
+title: What Formal Languages Can Transformers Express? A Survey
+authors:
+- Lena Strobl
+- William Merrill
+- Gail Weiss
+- David Chiang
+- Dana Angluin
+year: 2024
+venue: TACL 12:543-561, 2024
+category: surveys-and-talks
+links:
+  paper: https://arxiv.org/abs/2311.00208
+annotation: 'The reference survey on transformer expressivity: organizes upper- and lower-bound results in terms of attention
+  variant (hard / soft / saturated), precision regime, and logical / circuit characterizations.'
+tags:
+- survey
+- expressivity
+added: '2026-05-14'

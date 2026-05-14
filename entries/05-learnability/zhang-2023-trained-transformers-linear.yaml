@@ -1,0 +1,17 @@
+title: Trained Transformers Learn Linear Models In-Context
+authors:
+- Ruiqi Zhang
+- Spencer Frei
+- Peter L. Bartlett
+year: 2023
+venue: null
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2306.09927
+annotation: Proves that a single linear-attention layer trained on linear-regression ICL data converges to a one-step gradient-descent
+  predictor, with explicit non-asymptotic optimization rates.
+tags:
+- in-context-learning
+- linear-attention
+- optimization
+added: '2026-05-14'

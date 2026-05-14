@@ -1,0 +1,16 @@
+title: Sub-Task Decomposition Enables Learning in Sequence to Sequence Tasks
+authors:
+- Noam Wies
+- Yoav Levine
+- Amnon Shashua
+year: 2023
+venue: ICLR 2023
+category: cot-theory
+links:
+  paper: https://arxiv.org/abs/2204.02892
+annotation: 'Proves a learnability separation: composite sequence-to-sequence tasks that are hard to learn end-to-end become
+  PAC-learnable once decomposed into sub-tasks at training time — an early formal case for intermediate-step supervision.'
+tags:
+- learnability
+- decomposition
+added: '2026-05-14'

@@ -1,0 +1,19 @@
+title: Evaluating the Ripple Effects of Knowledge Editing in Language Models
+authors:
+- Roi Cohen
+- Eden Biran
+- Ori Yoran
+- Amir Globerson
+- Mor Geva
+year: 2024
+venue: TACL 2024
+category: knowledge-editing
+links:
+  paper: https://arxiv.org/abs/2307.12976
+annotation: Defines logical ripple-effect tests (composition, two-hop, subject aliasing) for edited models and shows existing
+  methods fail them, formalizing why naive locate-and-edit underspecifies knowledge editing.
+tags:
+- knowledge-editing
+- evaluation
+- ripple-effects
+added: '2026-05-14'

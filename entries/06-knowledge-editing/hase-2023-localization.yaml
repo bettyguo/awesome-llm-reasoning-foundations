@@ -1,0 +1,18 @@
+title: Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language
+  Models
+authors:
+- Peter Hase
+- Mohit Bansal
+- Been Kim
+- Asma Ghandeharioun
+year: 2023
+venue: NeurIPS 2023
+category: knowledge-editing
+links:
+  paper: https://arxiv.org/abs/2301.04213
+annotation: Shows that edit success is largely independent of the causal-trace 'hot' layer — a dissociation between localization
+  signal and edit efficacy that complicates ROME's mechanistic interpretation.
+tags:
+- knowledge-editing
+- localization
+added: '2026-05-14'

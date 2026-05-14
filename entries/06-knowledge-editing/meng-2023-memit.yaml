@@ -1,0 +1,19 @@
+title: Mass-Editing Memory in a Transformer
+authors:
+- Kevin Meng
+- Arnab Sen Sharma
+- Alex Andonian
+- Yonatan Belinkov
+- David Bau
+year: 2023
+venue: ICLR 2023
+category: knowledge-editing
+links:
+  paper: https://arxiv.org/abs/2210.07229
+  project: https://memit.baulab.info
+annotation: Extends ROME to thousands of simultaneous edits by solving a per-layer normal-equation update, giving the canonical
+  'edit-scale' baseline that later impossibility-style results push against.
+tags:
+- knowledge-editing
+- MEMIT
+added: '2026-05-14'

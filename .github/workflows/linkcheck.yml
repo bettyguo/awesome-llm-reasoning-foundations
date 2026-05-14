@@ -1,0 +1,37 @@
+name: linkcheck
+
+on:
+  pull_request:
+    paths:
+      - "entries/**"
+      - "tools/linkcheck.py"
+      - ".github/workflows/linkcheck.yml"
+  schedule:
+    # Mondays 06:00 UTC
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r tools/requirements.txt
+
+      - name: Check every URL resolves
+        run: python tools/linkcheck.py
+
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: linkcheck-report
+          path: linkcheck-report.json
+          if-no-files-found: ignore

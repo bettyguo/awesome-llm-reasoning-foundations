@@ -1,0 +1,18 @@
+title: Transformers learn to implement preconditioned gradient descent for in-context learning
+authors:
+- Kwangjun Ahn
+- Xiang Cheng
+- Hadi Daneshmand
+- Suvrit Sra
+year: 2023
+venue: NeurIPS 2023
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2306.00297
+annotation: Shows that the loss landscape of trained linear-attention layers admits a stationary point implementing preconditioned
+  gradient descent — sharper than 'plain GD' and matching empirical performance.
+tags:
+- in-context-learning
+- gradient-descent
+- linear-attention
+added: '2026-05-14'

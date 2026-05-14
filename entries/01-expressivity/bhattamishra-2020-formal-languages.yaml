@@ -1,0 +1,16 @@
+title: On the Ability and Limitations of Transformers to Recognize Formal Languages
+authors:
+- Satwik Bhattamishra
+- Kabir Ahuja
+- Navin Goyal
+year: 2020
+venue: EMNLP 2020
+category: expressivity
+links:
+  paper: https://arxiv.org/abs/2009.11264
+annotation: Empirically separates which counter, shuffle, and Dyck languages transformers can and cannot recognize, anchoring
+  later theoretical work on transformer expressivity in concrete language-class boundaries.
+tags:
+- formal-languages
+- counter-languages
+added: '2026-05-14'

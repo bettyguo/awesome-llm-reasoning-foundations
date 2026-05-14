@@ -1,0 +1,21 @@
+title: Transformers learn in-context by gradient descent
+authors:
+- Johannes von Oswald
+- Eyvind Niklasson
+- Ettore Randazzo
+- João Sacramento
+- Alexander Mordvintsev
+- Andrey Zhmoginov
+- Max Vladymyrov
+year: 2023
+venue: ICML 2023
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2212.07677
+annotation: Constructs single-layer linear-attention transformers that exactly implement one step of gradient descent on a
+  least-squares objective, and shows trained models converge to this construction.
+tags:
+- in-context-learning
+- gradient-descent
+- linear-attention
+added: '2026-05-14'

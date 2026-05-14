@@ -1,0 +1,16 @@
+title: Representational Strengths and Limitations of Transformers
+authors:
+- Clayton Sanford
+- Daniel Hsu
+- Matus Telgarsky
+year: 2023
+venue: NeurIPS 2023
+category: circuit-complexity
+links:
+  paper: https://arxiv.org/abs/2306.02896
+annotation: Gives matching upper and lower bounds for transformer width/depth on three-way matching and triple-detection tasks,
+  separating attention from MLPs and unidirectional RNNs via communication-complexity arguments.
+tags:
+- communication-complexity
+- lower-bounds
+added: '2026-05-14'

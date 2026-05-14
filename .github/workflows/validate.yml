@@ -1,0 +1,32 @@
+name: validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r tools/requirements.txt
+
+      - name: Validate entry schema + verification log
+        run: python tools/validate_entries.py
+
+      - name: Rebuild README from entries/ and check no drift
+        run: |
+          python tools/build_readme.py
+          if ! git diff --exit-code -- README.md; then
+            echo "::error::README.md is out of sync with entries/. Run 'python tools/build_readme.py' locally and commit." >&2
+            exit 1
+          fi

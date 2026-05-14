@@ -1,0 +1,17 @@
+title: The Illusion of State in State-Space Models
+authors:
+- William Merrill
+- Jackson Petty
+- Ashish Sabharwal
+year: 2024
+venue: ICML 2024
+category: circuit-complexity
+links:
+  paper: https://arxiv.org/abs/2404.08819
+annotation: Shows that linear and Mamba-style state-space models, despite being marketed as recurrent, still live in TC0 —
+  they cannot track state-dependent problems (e.g. S5 word problem) any better than transformers can.
+tags:
+- state-space-models
+- TC0
+- mamba
+added: '2026-05-14'

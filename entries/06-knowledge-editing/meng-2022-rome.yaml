@@ -1,0 +1,19 @@
+title: Locating and Editing Factual Associations in GPT
+authors:
+- Kevin Meng
+- David Bau
+- Alex Andonian
+- Yonatan Belinkov
+year: 2022
+venue: NeurIPS 2022
+category: knowledge-editing
+links:
+  paper: https://arxiv.org/abs/2202.05262
+  project: https://rome.baulab.info
+annotation: Introduces causal tracing to localize factual recall to mid-layer MLPs and edits a single weight matrix (rank-one
+  ROME update) to rewrite a fact — the load-bearing empirical claim that subsequent theoretical work tests.
+tags:
+- knowledge-editing
+- causal-tracing
+- ROME
+added: '2026-05-14'

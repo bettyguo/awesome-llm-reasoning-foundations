@@ -1,0 +1,18 @@
+title: What learning algorithm is in-context learning? Investigations with linear models
+authors:
+- Ekin Akyürek
+- Dale Schuurmans
+- Jacob Andreas
+- Tengyu Ma
+- Denny Zhou
+year: 2023
+venue: ICLR 2023
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2211.15661
+annotation: Demonstrates that transformers trained on linear-regression ICL tasks implement gradient-descent and ridge-regression-like
+  estimators internally, with explicit weight constructions reproducing the empirical behavior.
+tags:
+- in-context-learning
+- gradient-descent
+added: '2026-05-14'

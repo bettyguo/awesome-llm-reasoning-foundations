@@ -1,0 +1,18 @@
+title: An Explanation of In-context Learning as Implicit Bayesian Inference
+authors:
+- Sang Michael Xie
+- Aditi Raghunathan
+- Percy Liang
+- Tengyu Ma
+year: 2022
+venue: ICLR 2022
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2111.02080
+annotation: Models pretraining as a mixture-of-HMMs prior and shows in-context learning emerges as posterior inference over
+  latent task variables, predicting the empirical scaling of demo-count benefits.
+tags:
+- in-context-learning
+- bayesian-inference
+- HMM
+added: '2026-05-14'

@@ -1,0 +1,15 @@
+title: On the Turing Completeness of Modern Neural Network Architectures
+authors:
+- Jorge Pérez
+- Javier Marinković
+- Pablo Barceló
+year: 2019
+venue: ICLR 2019
+category: expressivity
+links:
+  paper: https://arxiv.org/abs/1901.03429
+annotation: Proves Turing-completeness for the Transformer and Neural GPU under unbounded precision and arbitrary input access,
+  while flagging that the construction relies on conditions not satisfied by practical implementations.
+tags:
+- turing-completeness
+added: '2026-05-14'

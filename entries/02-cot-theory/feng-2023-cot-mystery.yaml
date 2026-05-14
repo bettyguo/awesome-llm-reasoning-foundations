@@ -1,0 +1,20 @@
+title: 'Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective'
+authors:
+- Guhao Feng
+- Bohang Zhang
+- Yuntian Gu
+- Haotian Ye
+- Di He
+- Liwei Wang
+year: 2023
+venue: NeurIPS 2023
+category: cot-theory
+links:
+  paper: https://arxiv.org/abs/2305.15408
+annotation: Constructs a constant-size CoT transformer that solves arithmetic and dynamic-programming tasks unreachable by
+  any fixed-depth no-CoT transformer, giving an unconditional separation between with-CoT and without-CoT expressivity.
+tags:
+- chain-of-thought
+- arithmetic
+- dynamic-programming
+added: '2026-05-14'

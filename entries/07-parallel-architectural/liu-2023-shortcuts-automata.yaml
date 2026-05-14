@@ -1,0 +1,19 @@
+title: Transformers Learn Shortcuts to Automata
+authors:
+- Bingbin Liu
+- Jordan T. Ash
+- Surbhi Goel
+- Akshay Krishnamurthy
+- Cyril Zhang
+year: 2023
+venue: ICLR 2023
+category: parallel-architectural
+links:
+  paper: https://arxiv.org/abs/2210.10749
+annotation: Shows that O(log T)-depth transformers can solve T-step automaton-simulation tasks via algebraic shortcuts (semigroup
+  composition), but those shortcuts brittle-fail out of distribution — quantifying the length-generalization gap.
+tags:
+- automata
+- length-generalization
+- shortcuts
+added: '2026-05-14'

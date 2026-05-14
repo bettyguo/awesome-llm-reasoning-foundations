@@ -1,0 +1,16 @@
+title: On Limitations of the Transformer Architecture
+authors:
+- Binghui Peng
+- Srini Narayanan
+- Christos Papadimitriou
+year: 2024
+venue: null
+category: circuit-complexity
+links:
+  paper: https://arxiv.org/abs/2402.08164
+annotation: Uses communication-complexity arguments to show that bounded-depth, polynomial-width transformers cannot solve
+  function composition or iterated reasoning at input length n unless they violate widely-believed complexity assumptions.
+tags:
+- communication-complexity
+- function-composition
+added: '2026-05-14'

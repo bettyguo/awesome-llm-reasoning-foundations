@@ -1,0 +1,16 @@
+title: Attention is Turing-Complete
+authors:
+- Jorge Pérez
+- Pablo Barceló
+- Javier Marinkovic
+year: 2021
+venue: JMLR 22(75):1-35, 2021
+category: expressivity
+links:
+  paper: https://jmlr.org/papers/v22/20-302.html
+annotation: Refines the earlier ICLR 2019 result to show that a hard-attention Transformer alone — without residual or other
+  architectural extras — already simulates any Turing machine under unbounded precision.
+tags:
+- turing-completeness
+- hard-attention
+added: '2026-05-14'

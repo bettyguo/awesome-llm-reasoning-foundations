@@ -1,0 +1,17 @@
+title: Transformers, parallel computation, and logarithmic depth
+authors:
+- Clayton Sanford
+- Daniel Hsu
+- Matus Telgarsky
+year: 2024
+venue: null
+category: circuit-complexity
+links:
+  paper: https://arxiv.org/abs/2402.09268
+annotation: Identifies a hierarchy of multi-hop tasks ('k-hop induction') where O(log n)-depth attention is necessary and
+  sufficient, separating shallow transformers from MLPs and recurrent baselines by parallel-computation depth.
+tags:
+- depth
+- log-depth
+- k-hop
+added: '2026-05-14'

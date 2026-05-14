@@ -1,0 +1,26 @@
+CC0 1.0 Universal
+
+The curator of this list (Betty Guo / Dongxin Guo) has waived all copyright
+and related or neighboring rights in the content of this repository
+("the List") to the extent allowed by law, dedicating the List to the
+public domain.
+
+This applies to:
+  - README.md
+  - Files under entries/
+  - Files under docs/ and PLANNING/
+
+The List is provided "AS IS", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and non-infringement.
+
+The List is a curated index that points to third-party academic works.
+The copyright of each indexed paper or resource belongs to its original
+authors and publishers; this waiver applies only to the curatorial
+selection, ordering, categorization, and one-line annotations authored
+for this repository.
+
+Source code under tools/ is licensed separately — see LICENSE-CODE.
+
+For the full legal text of CC0 1.0, see:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

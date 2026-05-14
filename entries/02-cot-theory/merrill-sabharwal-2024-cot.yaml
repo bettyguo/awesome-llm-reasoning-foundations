@@ -1,0 +1,16 @@
+title: The Expressive Power of Transformers with Chain of Thought
+authors:
+- William Merrill
+- Ashish Sabharwal
+year: 2024
+venue: ICLR 2024
+category: cot-theory
+links:
+  paper: https://arxiv.org/abs/2310.07923
+  openreview: https://openreview.net/forum?id=NjNGlPh8Wh
+annotation: 'Characterizes the expressive power of decoder-only transformers with intermediate CoT tokens as a function of
+  generation length: log-many steps stay in TC0, linear-many reach P, polynomial-many reach EXPTIME.'
+tags:
+- chain-of-thought
+- complexity-class
+added: '2026-05-14'

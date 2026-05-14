@@ -1,0 +1,18 @@
+title: Chain of Thought Empowers Transformers to Solve Inherently Serial Problems
+authors:
+- Zhiyuan Li
+- Hong Liu
+- Denny Zhou
+- Tengyu Ma
+year: 2024
+venue: ICLR 2024
+category: cot-theory
+links:
+  paper: https://arxiv.org/abs/2402.12875
+annotation: Proves that with T(n) steps of CoT a constant-depth transformer simulates T(n)-step sequential computation, recovering
+  serial-complexity classes that lie outside the parallel reach of a single forward pass.
+tags:
+- chain-of-thought
+- P-completeness
+- sequential
+added: '2026-05-14'

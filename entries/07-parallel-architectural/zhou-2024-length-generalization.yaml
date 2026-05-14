@@ -1,0 +1,21 @@
+title: What Algorithms can Transformers Learn? A Study in Length Generalization
+authors:
+- Hattie Zhou
+- Arwen Bradley
+- Etai Littwin
+- Noam Razin
+- Omid Saremi
+- Josh Susskind
+- Samy Bengio
+- Preetum Nakkiran
+year: 2024
+venue: ICLR 2024
+category: parallel-architectural
+links:
+  paper: https://arxiv.org/abs/2310.16028
+annotation: 'Proposes the RASP-Generalization Conjecture: transformers length-generalize on a task iff the task admits a short,
+  simple RASP-L program, and empirically supports the prediction across arithmetic and reasoning tasks.'
+tags:
+- length-generalization
+- RASP
+added: '2026-05-14'

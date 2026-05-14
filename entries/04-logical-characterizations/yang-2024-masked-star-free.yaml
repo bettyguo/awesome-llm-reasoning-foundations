@@ -1,0 +1,17 @@
+title: Masked Hard-Attention Transformers Recognize Exactly the Star-Free Languages
+authors:
+- Andy Yang
+- David Chiang
+- Dana Angluin
+year: 2024
+venue: NeurIPS 2024
+category: logical-characterizations
+links:
+  paper: https://arxiv.org/abs/2310.13897
+annotation: 'Proves an exact characterization: causal hard-attention transformers without position embeddings recognize precisely
+  the star-free regular languages, equivalent to LTL or FO[<].'
+tags:
+- star-free
+- regular-languages
+- FO
+added: '2026-05-14'

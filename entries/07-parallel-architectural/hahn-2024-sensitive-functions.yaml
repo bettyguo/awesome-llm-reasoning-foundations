@@ -1,0 +1,16 @@
+title: Why are Sensitive Functions Hard for Transformers?
+authors:
+- Michael Hahn
+- Mark Rofin
+year: 2024
+venue: ACL 2024
+category: parallel-architectural
+links:
+  paper: https://arxiv.org/abs/2402.09963
+annotation: 'Proves a loss-landscape bias: transformer parameters minimizing training loss tend to compute functions of low
+  average sensitivity, explaining why parity-like high-sensitivity targets fail to be learned even when expressible.'
+tags:
+- sensitivity
+- loss-landscape
+- parity
+added: '2026-05-14'

@@ -1,0 +1,15 @@
+title: On the Computational Power of Transformers and its Implications in Sequence Modeling
+authors:
+- Satwik Bhattamishra
+- Arkil Patel
+- Navin Goyal
+year: 2020
+venue: CoNLL 2020
+category: expressivity
+links:
+  paper: https://arxiv.org/abs/2006.09286
+annotation: Gives a Turing-completeness argument for transformer encoder-decoders under unbounded-precision assumptions and
+  pinpoints residual connections and positional encodings as load-bearing for the construction.
+tags:
+- turing-completeness
+added: '2026-05-14'

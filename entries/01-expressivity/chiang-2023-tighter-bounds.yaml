@@ -1,0 +1,17 @@
+title: Tighter Bounds on the Expressivity of Transformer Encoders
+authors:
+- David Chiang
+- Peter Cholak
+- Anand Pillay
+year: 2023
+venue: ICML 2023
+category: expressivity
+links:
+  paper: https://arxiv.org/abs/2301.10743
+annotation: Sharpens the upper-bound side of transformer expressivity by characterizing fixed-precision soft-attention encoders
+  within a counting-extension of first-order logic — a precursor to the logical-characterization line.
+tags:
+- first-order-logic
+- counting
+- fixed-precision
+added: '2026-05-14'

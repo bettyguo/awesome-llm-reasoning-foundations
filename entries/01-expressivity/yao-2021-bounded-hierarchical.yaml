@@ -1,0 +1,18 @@
+title: Self-Attention Networks Can Process Bounded Hierarchical Languages
+authors:
+- Shunyu Yao
+- Binghui Peng
+- Christos Papadimitriou
+- Karthik Narasimhan
+year: 2021
+venue: ACL 2021
+category: expressivity
+links:
+  paper: https://arxiv.org/abs/2105.11115
+  code: https://github.com/princeton-nlp/dyck-transformer
+annotation: Constructs O(log n)-depth transformers recognizing Dyck-k with bounded nesting depth, showing self-attention's
+  depth-vs-stack tradeoff for hierarchical languages.
+tags:
+- formal-languages
+- dyck
+added: '2026-05-14'

@@ -1,0 +1,19 @@
+title: Logical Languages Accepted by Transformer Encoders with Hard Attention
+authors:
+- Pablo Barceló
+- Alexander Kozachinskiy
+- Anthony Widjaja Lin
+- Vladimir Podolskii
+year: 2024
+venue: ICLR 2024
+category: logical-characterizations
+links:
+  paper: https://arxiv.org/abs/2310.03817
+annotation: Shows that unique-hard-attention encoders accept exactly the first-order definable languages with unary numerical
+  predicates (a strict subset of AC0), and that average-hard-attention encoders climb to TC0 but no higher.
+tags:
+- AC0
+- TC0
+- hard-attention
+- first-order-logic
+added: '2026-05-14'

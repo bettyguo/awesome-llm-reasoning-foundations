@@ -1,0 +1,15 @@
+title: A Theory of Emergent In-Context Learning as Implicit Structure Induction
+authors:
+- Michael Hahn
+- Navin Goyal
+year: 2023
+venue: null
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2303.07971
+annotation: Derives ICL as a consequence of compositional structure in pretraining data, predicting concrete scaling laws
+  for the emergence threshold as a function of data compositionality.
+tags:
+- in-context-learning
+- compositionality
+added: '2026-05-14'

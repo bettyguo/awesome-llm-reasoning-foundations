@@ -1,0 +1,16 @@
+title: A Logic for Expressing Log-Precision Transformers
+authors:
+- William Merrill
+- Ashish Sabharwal
+year: 2023
+venue: NeurIPS 2023
+category: logical-characterizations
+links:
+  paper: https://arxiv.org/abs/2210.02671
+annotation: Embeds log-precision transformers in first-order logic with majority quantifiers (FOM), giving the first logical
+  upper-bound characterization of a realistic transformer variant.
+tags:
+- FOM
+- majority-logic
+- log-precision
+added: '2026-05-14'
