@@ -188,6 +188,17 @@ Gaps we want filled by the community are tracked under the [`wanted`](https://gi
 
 Every new entry needs a verification link (arXiv abstract page, OpenReview, or proceedings URL). See [CONTRIBUTING.md](CONTRIBUTING.md). Out-of-scope PRs may be redirected to one of the related lists above — that's the boundary of *this* list, not a judgment of the work.
 
+## Star history
+
+<!--
+  Uncomment after the repo is public. The badge service 404s on private repos,
+  which would make the README render a broken image on github.com.
+
+  <a href="https://star-history.com/#bettyguo/awesome-llm-reasoning-foundations&Date">
+    <img src="https://api.star-history.com/svg?repos=bettyguo/awesome-llm-reasoning-foundations&type=Date" alt="Star History Chart"/>
+  </a>
+-->
+
 ## License
 
 - List content (`README.md`, `entries/`, `docs/`, `PLANNING/`) — [CC0 1.0](LICENSE), public domain.

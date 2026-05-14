@@ -1,0 +1,14 @@
+# Linkcheck artifact (regenerated each run)
+linkcheck-report.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors
+.idea/
+.vscode/
+*.swp
+.DS_Store
