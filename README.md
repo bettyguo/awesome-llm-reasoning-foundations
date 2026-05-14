@@ -27,9 +27,6 @@ Every entry below was verified against arXiv / OpenReview / ACL Anthology before
 
 Maintained by **Betty Guo (Dongxin Guo)** — final-year CS PhD candidate, University of Hong Kong, advised by Prof. Siu-Ming Yiu. Research in the formal foundations of LLM reasoning.
 
-- GitHub: [@bettyguo](https://github.com/bettyguo)
-- ORCID: [0009-0000-2388-1072](https://orcid.org/0009-0000-2388-1072)
-
 If you spot an error, please open an issue — citation accuracy is the whole point of this list.
 
 ## Contents
