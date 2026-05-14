@@ -102,6 +102,8 @@ Every row below corresponds to a YAML file under `entries/`. Sources were inspec
 | DROP | `bills-2023-explain-neurons` | OpenAI tech report; mechanistic-interpretability work, not a formal foundations result. Better fit for `JShollaj/awesome-llm-interpretability`. |
 | DROP | `wei-2022-cot-prompting` | Original CoT prompting paper — methods, not theory. Linked from theory entries that build on it; not listed here. |
 | DROP | `yao-2023-tree-of-thoughts` | Tree-of-Thoughts is a CoT methods paper — out of scope; linked from `atfortes/Awesome-LLM-Reasoning`. |
+| DROP | `schaeffer-2023-mirage` | Phase 6 hostile review: paper is about scaling-law evaluation methodology, not LLM-reasoning theory. Verification passed but scope check failed — moved out of published list. |
+| DROP | `stechly-2024-self-verification-limits` | Phase 6 hostile review: empirical negative result on self-verification, no formal theorem. Fails the "carries a formal foundations result" bar. Verification passed but scope check failed. |
 
 ## Notes
 

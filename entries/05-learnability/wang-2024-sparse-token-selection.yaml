@@ -6,7 +6,7 @@ authors:
 - Jason D. Lee
 year: 2024
 venue: null
-category: circuit-complexity
+category: learnability
 links:
   paper: https://arxiv.org/abs/2406.06893
 annotation: Provides a learning separation between transformers and MLPs on a sparse-token-selection task, showing transformers
