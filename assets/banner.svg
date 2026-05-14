@@ -1,27 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-label="Awesome LLM Reasoning Foundations">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 360" role="img" aria-label="Awesome LLM Reasoning Foundations">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0b1023"/>
-      <stop offset="100%" stop-color="#1a234c"/>
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="100%" stop-color="#1a2240"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#7dd3fc"/>
-      <stop offset="100%" stop-color="#c4b5fd"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
     </linearGradient>
+    <style>
+      .h1 { font: 700 56px ui-sans-serif, system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f8fafc; letter-spacing: -0.5px; }
+      .h2 { font: 400 22px ui-sans-serif, system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #cbd5e1; }
+      .mono { font: 500 16px ui-monospace, SFMono-Regular, "Cascadia Mono", "Roboto Mono", Menlo, monospace; fill: #93c5fd; }
+      .pill { font: 600 14px ui-sans-serif, system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #0b1020; }
+    </style>
   </defs>
-  <rect width="1200" height="280" fill="url(#bg)"/>
-  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" fill="#f8fafc">
-    <text x="60" y="100" font-size="48" font-weight="700">awesome-llm-reasoning-foundations</text>
-    <text x="60" y="150" font-size="22" fill="#cbd5e1">a curated, verified map of the theoretical foundations of LLM reasoning</text>
-    <g font-size="14" fill="#a3b8d8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-      <text x="60" y="200">expressivity</text>
-      <text x="200" y="200">chain-of-thought theory</text>
-      <text x="420" y="200">circuit complexity</text>
-      <text x="610" y="200">logical characterizations</text>
-      <text x="830" y="200">learnability</text>
-      <text x="950" y="200">knowledge editing</text>
+
+  <rect width="1440" height="360" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1440" height="6" fill="url(#accent)"/>
+  <rect x="0" y="354" width="1440" height="6" fill="url(#accent)"/>
+
+  <text x="80" y="130" class="h1">awesome-llm-reasoning-foundations</text>
+  <text x="80" y="170" class="h2">A curated, rigorously-verified map of the theoretical foundations of LLM reasoning.</text>
+
+  <g transform="translate(80, 220)">
+    <g transform="translate(0, 0)">
+      <rect width="160" height="32" rx="16" fill="#7dd3fc"/>
+      <text x="80" y="21" class="pill" text-anchor="middle">expressivity</text>
     </g>
-    <line x1="60" y1="225" x2="1140" y2="225" stroke="url(#accent)" stroke-width="2"/>
-    <text x="60" y="255" font-size="13" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">curated by Betty Guo (Dongxin Guo) · HKU · CC0 list / MIT code</text>
+    <g transform="translate(176, 0)">
+      <rect width="180" height="32" rx="16" fill="#a78bfa"/>
+      <text x="90" y="21" class="pill" text-anchor="middle">CoT theory</text>
+    </g>
+    <g transform="translate(372, 0)">
+      <rect width="220" height="32" rx="16" fill="#fca5a5"/>
+      <text x="110" y="21" class="pill" text-anchor="middle">circuit complexity</text>
+    </g>
+    <g transform="translate(608, 0)">
+      <rect width="200" height="32" rx="16" fill="#86efac"/>
+      <text x="100" y="21" class="pill" text-anchor="middle">logical chars</text>
+    </g>
+    <g transform="translate(824, 0)">
+      <rect width="180" height="32" rx="16" fill="#fbbf24"/>
+      <text x="90" y="21" class="pill" text-anchor="middle">learnability</text>
+    </g>
+    <g transform="translate(1020, 0)">
+      <rect width="220" height="32" rx="16" fill="#f0abfc"/>
+      <text x="110" y="21" class="pill" text-anchor="middle">edit impossibility</text>
+    </g>
   </g>
+
+  <text x="80" y="310" class="mono">curated by @bettyguo · CC0 list · MIT tools · every entry web-verified</text>
 </svg>
