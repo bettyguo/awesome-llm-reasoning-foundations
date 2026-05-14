@@ -1,0 +1,17 @@
+title: How Transformers Learn Causal Structure with Gradient Descent
+authors:
+- Eshaan Nichani
+- Alex Damian
+- Jason D. Lee
+year: 2024
+venue: ICML 2024
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2402.14735
+annotation: Proves that a two-layer attention model trained on data with a latent causal graph recovers that graph in its attention
+  pattern with polynomial sample complexity — a learnability-of-structure result for transformers.
+tags:
+- causal-structure
+- training-dynamics
+- gradient-descent
+added: '2026-05-14'

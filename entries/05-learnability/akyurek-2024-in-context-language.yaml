@@ -1,0 +1,17 @@
+title: 'In-Context Language Learning: Architectures and Algorithms'
+authors:
+- Ekin Akyürek
+- Bailin Wang
+- Yoon Kim
+- Jacob Andreas
+year: 2024
+venue: null
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2401.12973
+annotation: 'Extends ICL theory from regression to formal-language learning: builds a benchmark of in-context formal-language
+  tasks and shows transformers approach the Bayes-optimal learner where state-space models lag.'
+tags:
+- in-context-learning
+- formal-languages
+added: '2026-05-14'

@@ -1,0 +1,18 @@
+title: Transformers as Support Vector Machines
+authors:
+- Davoud Ataee Tarzanagh
+- Yingcong Li
+- Christos Thrampoulidis
+- Samet Oymak
+year: 2023
+venue: null
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2308.16898
+annotation: Shows that the implicit bias of self-attention trained by gradient descent solves a hard-margin SVM-like objective in
+  token space, characterizing which tokens attention "selects" at convergence.
+tags:
+- implicit-bias
+- svm
+- gradient-descent
+added: '2026-05-14'

@@ -1,0 +1,17 @@
+title: What Can('t) Transformers Do? (NeurIPS 2025 Workshop)
+authors:
+- Tobias Schnabel
+- Kiran Tomlinson
+- Lena Strobl
+- Michael Hahn
+year: 2025
+venue: NeurIPS 2025 Workshop
+category: surveys-and-talks
+links:
+  paper: https://transformerstheory.github.io/
+annotation: 'Community gathering of the transformer-theory subfield: accepted papers and invited talks survey what is known
+  and unknown about transformer expressivity, learnability, and complexity as of late 2025.'
+tags:
+- workshop
+- community
+added: '2026-05-14'

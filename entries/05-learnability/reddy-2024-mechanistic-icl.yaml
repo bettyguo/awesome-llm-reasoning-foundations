@@ -1,0 +1,15 @@
+title: The mechanistic basis of data dependence and abrupt learning in an in-context classification task
+authors:
+- Gautam Reddy
+year: 2024
+venue: ICLR 2024
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2312.03002
+annotation: Distills the ICL/induction-head transition into a tractable two-layer model and derives, in closed form, how the abruptness
+  and data-dependence of ICL emergence depend on pretraining-distribution structure.
+tags:
+- in-context-learning
+- training-dynamics
+- phase-transition
+added: '2026-05-14'

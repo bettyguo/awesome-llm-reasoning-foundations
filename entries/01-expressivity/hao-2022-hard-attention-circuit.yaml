@@ -1,0 +1,17 @@
+title: 'Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity'
+authors:
+- Yiding Hao
+- Dana Angluin
+- Robert Frank
+year: 2022
+venue: TACL 2022
+category: expressivity
+links:
+  paper: https://arxiv.org/abs/2204.06618
+annotation: Places hard-attention transformer encoders inside AC0 and gives matching lower-bound separations between hard-attention
+  variants, anchoring the circuit-complexity view of attention.
+tags:
+- AC0
+- hard-attention
+- circuit-complexity
+added: '2026-05-14'

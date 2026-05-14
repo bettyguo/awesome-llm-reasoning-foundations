@@ -1,0 +1,15 @@
+title: 'Physics of Language Models: Part 3.2, Knowledge Manipulation'
+authors:
+- Zeyuan Allen-Zhu
+- Yuanzhi Li
+year: 2023
+venue: null
+category: knowledge-editing
+links:
+  paper: https://arxiv.org/abs/2309.14402
+annotation: Shows that even when knowledge is reliably extractable, simple manipulations of that knowledge (inverse lookup,
+  comparison, composition) systematically fail — formalizing a manipulation-vs-storage gap.
+tags:
+- knowledge-manipulation
+- inverse-lookup
+added: '2026-05-14'

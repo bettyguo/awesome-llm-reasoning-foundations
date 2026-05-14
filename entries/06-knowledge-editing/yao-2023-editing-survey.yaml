@@ -1,0 +1,21 @@
+title: 'Editing Large Language Models: Problems, Methods, and Opportunities'
+authors:
+- Yunzhi Yao
+- Peng Wang
+- Bozhong Tian
+- Siyuan Cheng
+- Zhoubo Li
+- Shumin Deng
+- Huajun Chen
+- Ningyu Zhang
+year: 2023
+venue: EMNLP 2023
+category: knowledge-editing
+links:
+  paper: https://arxiv.org/abs/2305.13172
+annotation: Catalogues knowledge-editing approaches and benchmarks, surfacing the structural tradeoffs (locality vs. generalization
+  vs. reliability) that motivate impossibility-style follow-ups.
+tags:
+- survey
+- editing
+added: '2026-05-14'

@@ -1,0 +1,17 @@
+title: 'A Little Depth Goes a Long Way: The Expressive Power of Log-Depth Transformers'
+authors:
+- William Merrill
+- Ashish Sabharwal
+year: 2025
+venue: NeurIPS 2025
+category: expressivity
+links:
+  paper: https://arxiv.org/abs/2503.03961
+annotation: Proves that uniform Θ(log n)-depth transformers can express regular-language recognition and graph connectivity — problems
+  unreachable by fixed-depth variants under standard complexity conjectures, identifying depth (not width or CoT length) as the
+  efficient scaling axis.
+tags:
+- depth-scaling
+- regular-languages
+- graph-connectivity
+added: '2026-05-14'

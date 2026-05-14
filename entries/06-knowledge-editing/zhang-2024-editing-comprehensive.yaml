@@ -1,0 +1,36 @@
+title: A Comprehensive Study of Knowledge Editing for Large Language Models
+authors:
+- Ningyu Zhang
+- Yunzhi Yao
+- Bozhong Tian
+- Peng Wang
+- Shumin Deng
+- Mengru Wang
+- Zekun Xi
+- Shengyu Mao
+- Jintian Zhang
+- Yuansheng Ni
+- Siyuan Cheng
+- Ziwen Xu
+- Xin Xu
+- Jia-Chen Gu
+- Yong Jiang
+- Pengjun Xie
+- Fei Huang
+- Lei Liang
+- Zhiqiang Zhang
+- Xiaowei Zhu
+- Jun Zhou
+- Huajun Chen
+year: 2024
+venue: null
+category: knowledge-editing
+links:
+  paper: https://arxiv.org/abs/2401.01286
+annotation: Standardizes the evaluation protocol (KnowEdit) and benchmarks every major editing approach on a single axis, providing
+  the reference dataset behind subsequent theoretical claims about the locality–generality tradeoff.
+tags:
+- benchmark
+- editing
+- knowedit
+added: '2026-05-14'

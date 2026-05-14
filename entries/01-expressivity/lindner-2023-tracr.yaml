@@ -1,0 +1,20 @@
+title: 'Tracr: Compiled Transformers as a Laboratory for Interpretability'
+authors:
+- David Lindner
+- János Kramár
+- Sebastian Farquhar
+- Matthew Rahtz
+- Thomas McGrath
+- Vladimir Mikulik
+year: 2023
+venue: NeurIPS 2023 (Spotlight)
+category: expressivity
+links:
+  paper: https://arxiv.org/abs/2301.05062
+annotation: Implements a compiler from RASP programs to concrete transformer weights, giving a constructive existence proof and a
+  controlled testbed for studying which RASP idioms the architecture can host.
+tags:
+- rasp
+- compiler
+- constructive
+added: '2026-05-14'

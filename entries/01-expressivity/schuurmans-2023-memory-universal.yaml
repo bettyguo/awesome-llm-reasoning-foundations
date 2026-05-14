@@ -1,0 +1,14 @@
+title: Memory Augmented Large Language Models are Computationally Universal
+authors:
+- Dale Schuurmans
+year: 2023
+venue: null
+category: expressivity
+links:
+  paper: https://arxiv.org/abs/2301.04589
+annotation: Shows that a fixed Flan-U-PaLM 540B augmented with an external read/write memory tape simulates a universal Turing machine,
+  shifting the locus of LLM expressivity from internal parameters to the inference-time loop.
+tags:
+- turing-completeness
+- external-memory
+added: '2026-05-14'

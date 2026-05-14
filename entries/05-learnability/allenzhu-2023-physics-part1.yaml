@@ -1,0 +1,15 @@
+title: 'Physics of Language Models: Part 1, Learning Hierarchical Language Structures'
+authors:
+- Zeyuan Allen-Zhu
+- Yuanzhi Li
+year: 2023
+venue: null
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2305.13673
+annotation: Controlled experiments on synthetic CFG-generated text show transformers acquire hierarchical syntactic structure
+  through a specific attention pattern ("diagonal then off-diagonal") tied to grammar depth.
+tags:
+- context-free-grammar
+- syntactic-learning
+added: '2026-05-14'

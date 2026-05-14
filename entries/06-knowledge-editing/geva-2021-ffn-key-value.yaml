@@ -1,0 +1,18 @@
+title: Transformer Feed-Forward Layers Are Key-Value Memories
+authors:
+- Mor Geva
+- Roei Schuster
+- Jonathan Berant
+- Omer Levy
+year: 2021
+venue: EMNLP 2021
+category: knowledge-editing
+links:
+  paper: https://arxiv.org/abs/2012.14913
+annotation: Provides the load-bearing empirical claim that feed-forward sublayers behave as key-value memories — the mechanism
+  that ROME, MEMIT, and later locate-and-edit work depend on.
+tags:
+- feed-forward
+- key-value-memory
+- interpretability
+added: '2026-05-14'

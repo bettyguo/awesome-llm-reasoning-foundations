@@ -1,0 +1,19 @@
+title: How Many Pretraining Tasks Are Needed for In-Context Learning of Linear Regression?
+authors:
+- Jingfeng Wu
+- Difan Zou
+- Zixiang Chen
+- Vladimir Braverman
+- Quanquan Gu
+- Peter L. Bartlett
+year: 2024
+venue: ICLR 2024
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2310.08391
+annotation: Proves a sharp threshold on the number of pretraining tasks required for a linear-attention model to ICL-generalize
+  to unseen tasks, complementing Raventós et al.'s empirical task-diversity phase transition with closed-form bounds.
+tags:
+- in-context-learning
+- sample-complexity
+added: '2026-05-14'

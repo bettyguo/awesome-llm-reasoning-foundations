@@ -1,0 +1,17 @@
+title: 'Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation'
+authors:
+- Ofir Press
+- Noah A. Smith
+- Mike Lewis
+year: 2022
+venue: ICLR 2022
+category: parallel-architectural
+links:
+  paper: https://arxiv.org/abs/2108.12409
+annotation: Replaces sinusoidal/learned positional encodings with a fixed linear-bias scheme (ALiBi) and shows extrapolation to
+  sequences much longer than training — the load-bearing baseline for subsequent length-generalization theory.
+tags:
+- positional-encoding
+- length-generalization
+- alibi
+added: '2026-05-14'

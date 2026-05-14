@@ -1,0 +1,40 @@
+title: In-context Learning and Induction Heads
+authors:
+- Catherine Olsson
+- Nelson Elhage
+- Neel Nanda
+- Nicholas Joseph
+- Nova DasSarma
+- Tom Henighan
+- Ben Mann
+- Amanda Askell
+- Yuntao Bai
+- Anna Chen
+- Tom Conerly
+- Dawn Drain
+- Deep Ganguli
+- Zac Hatfield-Dodds
+- Danny Hernandez
+- Scott Johnston
+- Andy Jones
+- Jackson Kernion
+- Liane Lovitt
+- Kamal Ndousse
+- Dario Amodei
+- Tom Brown
+- Jack Clark
+- Jared Kaplan
+- Sam McCandlish
+- Chris Olah
+year: 2022
+venue: null
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2209.11895
+annotation: Identifies "induction heads" as the circuit responsible for the in-context learning capability and times their formation
+  to a sharp pretraining-loss bump, linking mechanistic structure to the emergence of ICL.
+tags:
+- in-context-learning
+- induction-heads
+- training-dynamics
+added: '2026-05-14'

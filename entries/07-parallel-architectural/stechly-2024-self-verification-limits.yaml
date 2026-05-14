@@ -1,0 +1,17 @@
+title: On the Self-Verification Limitations of Large Language Models on Reasoning and Planning Tasks
+authors:
+- Kaya Stechly
+- Karthik Valmeekam
+- Subbarao Kambhampati
+year: 2024
+venue: null
+category: parallel-architectural
+links:
+  paper: https://arxiv.org/abs/2402.08115
+annotation: Shows that LLMs asked to verify their own reasoning add no measurable signal beyond random self-criticism — a
+  load-bearing negative result against self-consistency / self-correction loops as primitives for reliable reasoning.
+tags:
+- self-verification
+- self-correction
+- planning
+added: '2026-05-14'

@@ -1,0 +1,16 @@
+title: The pitfalls of next-token prediction
+authors:
+- Gregor Bachmann
+- Vaishnavh Nagarajan
+year: 2024
+venue: ICML 2024
+category: cot-theory
+links:
+  paper: https://arxiv.org/abs/2403.06963
+annotation: Identifies the 'Clever Hans cheat' and 'snowball error' failure modes of teacher-forced next-token training, showing
+  planning-like tasks suffer in-principle even with perfect data — a formal critique of vanilla autoregressive learning.
+tags:
+- next-token-prediction
+- planning
+- teacher-forcing
+added: '2026-05-14'

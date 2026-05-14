@@ -1,0 +1,17 @@
+title: Dissecting Recall of Factual Associations in Auto-Regressive Language Models
+authors:
+- Mor Geva
+- Jasmijn Bastings
+- Katja Filippova
+- Amir Globerson
+year: 2023
+venue: EMNLP 2023
+category: knowledge-editing
+links:
+  paper: https://arxiv.org/abs/2304.14767
+annotation: Decomposes factual recall into three stages (subject enrichment, relation propagation, attribute extraction),
+  giving a refined picture of where edits do and do not propagate — directly relevant to ripple-effect and impossibility results.
+tags:
+- factual-recall
+- mechanistic
+added: '2026-05-14'

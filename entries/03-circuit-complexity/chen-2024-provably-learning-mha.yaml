@@ -1,0 +1,16 @@
+title: Provably learning a multi-head attention layer
+authors:
+- Sitan Chen
+- Yuanzhi Li
+year: 2024
+venue: null
+category: circuit-complexity
+links:
+  paper: https://arxiv.org/abs/2402.04084
+annotation: Gives the first polynomial-time learning algorithm with provable guarantees for a single multi-head attention
+  layer under non-degeneracy conditions, plus matching lower bounds — initiates the computational-learning-theory analysis
+  of attention.
+tags:
+- learning-theory
+- multi-head
+added: '2026-05-14'

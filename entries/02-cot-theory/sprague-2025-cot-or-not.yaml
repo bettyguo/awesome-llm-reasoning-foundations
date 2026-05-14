@@ -1,0 +1,24 @@
+title: 'To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning'
+authors:
+- Zayne Sprague
+- Fangcong Yin
+- Juan Diego Rodriguez
+- Dongwei Jiang
+- Manya Wadhwa
+- Prasann Singhal
+- Xinyu Zhao
+- Xi Ye
+- Kyle Mahowald
+- Greg Durrett
+year: 2025
+venue: ICLR 2025
+category: cot-theory
+links:
+  paper: https://arxiv.org/abs/2409.12183
+annotation: Meta-analyzes 100+ CoT-vs-direct comparisons and shows CoT helps almost exclusively on math/symbolic tasks, sharpening
+  where the theoretical compute-extension argument matters in practice.
+tags:
+- chain-of-thought
+- meta-analysis
+- task-scope
+added: '2026-05-14'

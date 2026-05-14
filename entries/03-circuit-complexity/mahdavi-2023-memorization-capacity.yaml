@@ -1,0 +1,17 @@
+title: Memorization Capacity of Multi-Head Attention in Transformers
+authors:
+- Sadegh Mahdavi
+- Renjie Liao
+- Christos Thrampoulidis
+year: 2023
+venue: ICLR 2024
+category: circuit-complexity
+links:
+  paper: https://arxiv.org/abs/2306.02010
+annotation: Proves that an H-head attention layer with O(Hd^2) parameters memorizes Θ(Hn) examples, isolating multi-head structure
+  as the source of the memorization-vs-parameters scaling.
+tags:
+- memorization
+- multi-head
+- capacity
+added: '2026-05-14'

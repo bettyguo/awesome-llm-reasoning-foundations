@@ -1,0 +1,17 @@
+title: 'Let''s Think Dot by Dot: Hidden Computation in Transformer Language Models'
+authors:
+- Jacob Pfau
+- William Merrill
+- Samuel R. Bowman
+year: 2024
+venue: COLM 2024
+category: cot-theory
+links:
+  paper: https://arxiv.org/abs/2404.15758
+annotation: Shows that semantically empty filler tokens can boost transformer accuracy on parallelizable tasks, empirically separating
+  CoT's compute-extension role from its interpretability role.
+tags:
+- chain-of-thought
+- filler-tokens
+- hidden-computation
+added: '2026-05-14'

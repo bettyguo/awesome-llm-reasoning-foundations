@@ -1,0 +1,21 @@
+title: 'Think before you speak: Training Language Models With Pause Tokens'
+authors:
+- Sachin Goyal
+- Ziwei Ji
+- Ankit Singh Rawat
+- Aditya Krishna Menon
+- Sanjiv Kumar
+- Vaishnavh Nagarajan
+year: 2024
+venue: ICLR 2024
+category: cot-theory
+links:
+  paper: https://arxiv.org/abs/2310.02226
+annotation: Trains decoder-only models to consume learnable "pause" tokens before answering and shows reasoning gains, providing
+  an empirical counterpart to the theoretical claim that intermediate-token compute extends what a constant-depth transformer can
+  decide.
+tags:
+- chain-of-thought
+- pause-tokens
+- inference-compute
+added: '2026-05-14'

@@ -1,0 +1,19 @@
+title: Fast Model Editing at Scale
+authors:
+- Eric Mitchell
+- Charles Lin
+- Antoine Bosselut
+- Chelsea Finn
+- Christopher D. Manning
+year: 2022
+venue: ICLR 2022
+category: knowledge-editing
+links:
+  paper: https://arxiv.org/abs/2110.11309
+annotation: Introduces MEND, a hypernetwork that produces low-rank weight edits from a single fact, establishing the meta-learning
+  paradigm against which ROME and later locality-based methods compete.
+tags:
+- editing
+- hypernetwork
+- mend
+added: '2026-05-14'

@@ -1,0 +1,16 @@
+title: 'Physics of Language Models: Part 3.1, Knowledge Storage and Extraction'
+authors:
+- Zeyuan Allen-Zhu
+- Yuanzhi Li
+year: 2023
+venue: ICML 2024
+category: knowledge-editing
+links:
+  paper: https://arxiv.org/abs/2309.14316
+annotation: Demonstrates that knowledge memorized without augmented paraphrasing during pretraining is not extractable downstream,
+  with linear-probing evidence linking extraction success to specific token-embedding encodings.
+tags:
+- knowledge-storage
+- extraction
+- data-augmentation
+added: '2026-05-14'

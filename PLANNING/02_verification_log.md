@@ -53,6 +53,59 @@ Every entry in `entries/` must have a `PASS` row below before it appears in the 
 | PASS | `zhou-2024-length-generalization` | https://arxiv.org/abs/2310.16028 | 2026-05-14 | arxiv abstract confirms title, authors (Zhou, Bradley, Littwin, Razin, Saremi, Susskind, Bengio, Nakkiran); venue ICLR 2024 from common citation. |
 | PASS | `strobl-2024-formal-languages-survey` | https://arxiv.org/abs/2311.00208 | 2026-05-14 | arxiv abstract confirms title, authors (Strobl, Merrill, Weiss, Chiang, Angluin), TACL 12:543-561 (2024). |
 
+## Expansion pass — Phase 3 (2026-05-14)
+
+| status | slug | source URL | date | evidence |
+|--------|------|------------|------|----------|
+| PASS | `weiss-2021-thinking-like-transformers` | https://arxiv.org/abs/2106.06981 | 2026-05-14 | arxiv abstract confirms title "Thinking Like Transformers", authors (Weiss, Goldberg, Yahav), ICML 2021 comment. |
+| PASS | `deletang-2023-chomsky` | https://arxiv.org/abs/2207.02098 | 2026-05-14 | arxiv abstract confirms title, full 11-author list, ICLR 2023 (venue inferred from common citation; arxiv comment field not explicit). |
+| PASS | `lindner-2023-tracr` | https://arxiv.org/abs/2301.05062 | 2026-05-14 | arxiv abstract confirms title, authors (Lindner, Kramár, Farquhar, Rahtz, McGrath, Mikulik), NeurIPS 2023 Spotlight comment. |
+| PASS | `friedman-2023-learning-transformer-programs` | https://arxiv.org/abs/2306.01128 | 2026-05-14 | arxiv abstract confirms title, authors (Friedman, Wettig, Chen), NeurIPS 2023 oral comment. |
+| PASS | `liu-2023-flip-flop-glitches` | https://arxiv.org/abs/2306.00946 | 2026-05-14 | arxiv abstract confirms title, authors (Liu, Ash, Goel, Krishnamurthy, Zhang), NeurIPS 2023 camera-ready comment. |
+| PASS | `schuurmans-2023-memory-universal` | https://arxiv.org/abs/2301.04589 | 2026-05-14 | arxiv abstract confirms title, sole author Schuurmans; venue null pending confirmation. |
+| PASS | `merrill-2025-little-depth` | https://arxiv.org/abs/2503.03961 | 2026-05-14 | arxiv abstract confirms title, authors (Merrill, Sabharwal), NeurIPS 2025 comment. |
+| PASS | `pfau-2024-dot-by-dot` | https://arxiv.org/abs/2404.15758 | 2026-05-14 | arxiv abstract confirms title, authors (Pfau, Merrill, Bowman); venue COLM 2024 from common citation. |
+| PASS | `goyal-2024-pause-tokens` | https://arxiv.org/abs/2310.02226 | 2026-05-14 | arxiv abstract confirms title, authors (Goyal, Ji, Rawat, Menon, Kumar, Nagarajan), ICLR 2024 comment. |
+| PASS | `lanham-2023-faithfulness` | https://arxiv.org/abs/2307.13702 | 2026-05-14 | arxiv abstract confirms title and full 30-author list (Anthropic team led by Lanham); venue null. |
+| PASS | `sprague-2025-cot-or-not` | https://arxiv.org/abs/2409.12183 | 2026-05-14 | arxiv abstract confirms title, full 10-author list (Sprague et al.), ICLR 2025 comment. |
+| PASS | `kim-2025-parity-cot` | https://arxiv.org/abs/2410.08633 | 2026-05-14 | arxiv abstract confirms title, authors (Kim, Suzuki), ICLR 2025 Oral comment. |
+| PASS | `strobl-2023-average-hard-tc0` | https://arxiv.org/abs/2308.03212 | 2026-05-14 | arxiv abstract confirms title, sole author Strobl; venue null pending confirmation. |
+| PASS | `bai-2023-transformers-statisticians` | https://arxiv.org/abs/2306.04637 | 2026-05-14 | arxiv abstract confirms title, authors (Bai, Chen, Wang, Xiong, Mei); venue NeurIPS 2023 from common citation. |
+| PASS | `mahankali-2024-onestep-gd` | https://arxiv.org/abs/2307.03576 | 2026-05-14 | arxiv abstract confirms title, authors (Mahankali, Hashimoto, Ma); venue ICLR 2024 from common citation. |
+| PASS | `tarzanagh-2023-svm` | https://arxiv.org/abs/2308.16898 | 2026-05-14 | arxiv abstract confirms title, authors (Tarzanagh, Li, Thrampoulidis, Oymak); venue null. |
+| PASS | `ahn-2024-linear-attention` | https://arxiv.org/abs/2310.01082 | 2026-05-14 | arxiv abstract confirms title, authors (Ahn, Cheng, Song, Yun, Jadbabaie, Sra), ICLR 2024 comment. |
+| PASS | `wu-2024-pretraining-tasks` | https://arxiv.org/abs/2310.08391 | 2026-05-14 | arxiv abstract confirms title, authors (Wu, Zou, Chen, Braverman, Gu, Bartlett), ICLR 2024 camera-ready comment. |
+| PASS | `bietti-2023-birth` | https://arxiv.org/abs/2306.00802 | 2026-05-14 | arxiv abstract confirms title, authors (Bietti, Cabannes, Bouchacourt, Jégou, Bottou), NeurIPS 2023 comment. |
+| PASS | `olsson-2022-induction-heads` | https://arxiv.org/abs/2209.11895 | 2026-05-14 | arxiv abstract confirms title and full 26-author list (Olsson et al.); venue null (Anthropic tech-report-style preprint). |
+| PASS | `reddy-2024-mechanistic-icl` | https://arxiv.org/abs/2312.03002 | 2026-05-14 | arxiv abstract confirms title, sole author Reddy; venue ICLR 2024 from common citation. |
+| PASS | `nichani-2024-causal` | https://arxiv.org/abs/2402.14735 | 2026-05-14 | arxiv abstract confirms title, authors (Nichani, Damian, Lee), ICML 2024 camera-ready comment. |
+| PASS | `mitchell-2022-mend` | https://arxiv.org/abs/2110.11309 | 2026-05-14 | arxiv abstract confirms title, authors (Mitchell, Lin, Bosselut, Finn, Manning), ICLR 2022 comment. |
+| PASS | `mitchell-2022-serac` | https://arxiv.org/abs/2206.06520 | 2026-05-14 | arxiv abstract confirms title, authors (Mitchell, Lin, Bosselut, Manning, Finn), ICML 2022 comment. |
+| PASS | `decao-2021-editing-factual` | https://arxiv.org/abs/2104.08164 | 2026-05-14 | arxiv abstract confirms title, authors (De Cao, Aziz, Titov), EMNLP 2021 acceptance comment. |
+| PASS | `yao-2023-editing-survey` | https://arxiv.org/abs/2305.13172 | 2026-05-14 | arxiv abstract confirms title, full 8-author list (Yao et al.), EMNLP 2023 comment. |
+| PASS | `zhang-2024-editing-comprehensive` | https://arxiv.org/abs/2401.01286 | 2026-05-14 | arxiv abstract confirms title and full 22-author list (Zhang et al.); venue null (ongoing-work preprint). |
+| PASS | `anil-2022-length-generalization` | https://arxiv.org/abs/2207.04901 | 2026-05-14 | arxiv abstract confirms title, full 10-author list (Anil et al.); venue NeurIPS 2022 from common citation. |
+| PASS | `press-2022-alibi` | https://arxiv.org/abs/2108.12409 | 2026-05-14 | arxiv abstract confirms title, authors (Press, Smith, Lewis); venue ICLR 2022 from common citation (arxiv comment field empty). |
+| PASS | `kazemnejad-2023-positional-encoding` | https://arxiv.org/abs/2305.19466 | 2026-05-14 | arxiv abstract confirms title, authors (Kazemnejad, Padhi, Natesan Ramamurthy, Das, Reddy), NeurIPS 2023 acceptance. |
+| PASS | `ruoss-2023-randomized-pe` | https://arxiv.org/abs/2305.16843 | 2026-05-14 | arxiv abstract confirms title, full 8-author list; venue ACL 2023 from common citation. |
+| PASS | `dziri-2023-faith-and-fate` | https://arxiv.org/abs/2305.18654 | 2026-05-14 | arxiv abstract confirms title, full 16-author list; venue NeurIPS 2023 from common citation. |
+| PASS | `schaeffer-2023-mirage` | https://arxiv.org/abs/2304.15004 | 2026-05-14 | arxiv abstract confirms title, authors (Schaeffer, Miranda, Koyejo); venue NeurIPS 2023 from common citation. |
+| PASS | `hao-2022-hard-attention-circuit` | https://arxiv.org/abs/2204.06618 | 2026-05-14 | arxiv abstract confirms title "Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity", authors (Hao, Angluin, Frank), TACL acceptance comment. |
+| PASS | `bachmann-2024-pitfalls-next-token` | https://arxiv.org/abs/2403.06963 | 2026-05-14 | arxiv abstract confirms title "The pitfalls of next-token prediction", authors (Bachmann, Nagarajan), ICML 2024 comment. |
+| PASS | `chen-2024-provably-learning-mha` | https://arxiv.org/abs/2402.04084 | 2026-05-14 | arxiv abstract confirms title "Provably learning a multi-head attention layer", authors (Chen, Li); venue null pending confirmation. |
+| PASS | `mahdavi-2023-memorization-capacity` | https://arxiv.org/abs/2306.02010 | 2026-05-14 | arxiv abstract confirms title "Memorization Capacity of Multi-Head Attention in Transformers", authors (Mahdavi, Liao, Thrampoulidis), ICLR 2024 Spotlight comment. |
+| PASS | `wang-2024-sparse-token-selection` | https://arxiv.org/abs/2406.06893 | 2026-05-14 | arxiv abstract confirms title "Transformers Provably Learn Sparse Token Selection While Fully-Connected Nets Cannot", authors (Wang, Wei, Hsu, Lee); venue null. |
+| PASS | `akyurek-2024-in-context-language` | https://arxiv.org/abs/2401.12973 | 2026-05-14 | arxiv abstract confirms title "In-Context Language Learning: Architectures and Algorithms", authors (Akyürek, Wang, Kim, Andreas); venue null. |
+| PASS | `allenzhu-2023-physics-part1` | https://arxiv.org/abs/2305.13673 | 2026-05-14 | arxiv abstract confirms title "Physics of Language Models: Part 1, Learning Hierarchical Language Structures", authors (Allen-Zhu, Li); venue null. |
+| PASS | `wen-2024-rnns-not-transformers` | https://arxiv.org/abs/2402.18510 | 2026-05-14 | arxiv abstract confirms title "RNNs are not Transformers (Yet): The Key Bottleneck on In-context Retrieval", authors (Wen, Dang, Lyu); venue null. |
+| PASS | `geva-2021-ffn-key-value` | https://arxiv.org/abs/2012.14913 | 2026-05-14 | arxiv abstract confirms title "Transformer Feed-Forward Layers Are Key-Value Memories", authors (Geva, Schuster, Berant, Levy), EMNLP 2021. |
+| PASS | `geva-2023-dissecting-recall` | https://arxiv.org/abs/2304.14767 | 2026-05-14 | arxiv abstract confirms title "Dissecting Recall of Factual Associations in Auto-Regressive Language Models", authors (Geva, Bastings, Filippova, Globerson), EMNLP 2023. |
+| PASS | `allenzhu-2023-physics-3-1` | https://arxiv.org/abs/2309.14316 | 2026-05-14 | arxiv abstract confirms title "Physics of Language Models: Part 3.1, Knowledge Storage and Extraction", authors (Allen-Zhu, Li); venue null. |
+| PASS | `allenzhu-2023-physics-3-2` | https://arxiv.org/abs/2309.14402 | 2026-05-14 | arxiv abstract confirms title "Physics of Language Models: Part 3.2, Knowledge Manipulation", authors (Allen-Zhu, Li); venue null. |
+| PASS | `stechly-2024-self-verification-limits` | https://arxiv.org/abs/2402.08115 | 2026-05-14 | arxiv abstract confirms title "On the Self-Verification Limitations of Large Language Models on Reasoning and Planning Tasks", authors (Stechly, Valmeekam, Kambhampati); venue null. |
+| PASS | `yang-2024-counting-like-transformers` | https://arxiv.org/abs/2404.04393 | 2026-05-14 | arxiv abstract confirms title "Counting Like Transformers: Compiling Temporal Counting Logic Into Softmax Transformers", authors (Yang, Chiang); venue null pending confirmation. |
+| PASS | `transformers-theory-workshop-2025` | https://transformerstheory.github.io/ | 2026-05-14 | workshop homepage confirms name "What Can('t) Transformers Do?", NeurIPS 2025 workshop, organizers (Schnabel, Tomlinson, Strobl, Hahn). |
+
 ## Drops
 
 | status | slug candidate | reason |

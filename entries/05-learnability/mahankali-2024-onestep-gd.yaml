@@ -1,0 +1,17 @@
+title: One Step of Gradient Descent is Provably the Optimal In-Context Learner with One Layer of Linear Self-Attention
+authors:
+- Arvind Mahankali
+- Tatsunori B. Hashimoto
+- Tengyu Ma
+year: 2023
+venue: ICLR 2024
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2307.03576
+annotation: Proves that for ICL on linear regression with a single linear-attention layer, the global-minimum solution is
+  exactly one step of gradient descent on the in-context dataset — the tightest characterization in this regime.
+tags:
+- in-context-learning
+- linear-attention
+- optimality
+added: '2026-05-14'

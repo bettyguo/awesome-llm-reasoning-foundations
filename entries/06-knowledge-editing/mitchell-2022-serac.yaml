@@ -1,0 +1,19 @@
+title: Memory-Based Model Editing at Scale
+authors:
+- Eric Mitchell
+- Charles Lin
+- Antoine Bosselut
+- Christopher D. Manning
+- Chelsea Finn
+year: 2022
+venue: ICML 2022
+category: knowledge-editing
+links:
+  paper: https://arxiv.org/abs/2206.06520
+annotation: Proposes SERAC — store edits in an external cache and route queries through a learned scope classifier — providing a
+  weights-untouched baseline that complements parameter-editing methods.
+tags:
+- editing
+- external-memory
+- serac
+added: '2026-05-14'

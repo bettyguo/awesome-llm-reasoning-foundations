@@ -1,0 +1,19 @@
+title: 'Birth of a Transformer: A Memory Viewpoint'
+authors:
+- Alberto Bietti
+- Vivien Cabannes
+- Diane Bouchacourt
+- Hervé Jégou
+- Léon Bottou
+year: 2023
+venue: NeurIPS 2023
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2306.00802
+annotation: Models the formation of bigram-and-induction-head circuits during pretraining as a memory-association process, deriving
+  scaling-law-style predictions for when each capability emerges.
+tags:
+- training-dynamics
+- induction-heads
+- memory
+added: '2026-05-14'

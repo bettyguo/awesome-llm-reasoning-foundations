@@ -1,0 +1,20 @@
+title: Linear attention is (maybe) all you need (to understand transformer optimization)
+authors:
+- Kwangjun Ahn
+- Xiang Cheng
+- Minhak Song
+- Chulhee Yun
+- Ali Jadbabaie
+- Suvrit Sra
+year: 2024
+venue: ICLR 2024
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2310.01082
+annotation: Argues that single-layer linear-attention models reproduce many of the optimization-landscape phenomena of full transformers
+  (heavy-tailed gradients, edge-of-stability), giving a tractable surrogate for studying transformer training dynamics.
+tags:
+- optimization-dynamics
+- linear-attention
+- surrogate-model
+added: '2026-05-14'

@@ -1,0 +1,17 @@
+title: Are Emergent Abilities of Large Language Models a Mirage?
+authors:
+- Rylan Schaeffer
+- Brando Miranda
+- Sanmi Koyejo
+year: 2023
+venue: NeurIPS 2023
+category: surveys-and-talks
+links:
+  paper: https://arxiv.org/abs/2304.15004
+annotation: Shows that many reported "emergent abilities" are artifacts of nonlinear, all-or-nothing metrics; under continuous metrics
+  the same models improve smoothly with scale — a methodological caveat any scaling-law-style claim must address.
+tags:
+- emergence
+- methodology
+- scaling-laws
+added: '2026-05-14'

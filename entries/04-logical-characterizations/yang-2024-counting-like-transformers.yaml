@@ -1,0 +1,16 @@
+title: 'Counting Like Transformers: Compiling Temporal Counting Logic Into Softmax Transformers'
+authors:
+- Andy Yang
+- David Chiang
+year: 2024
+venue: null
+category: logical-characterizations
+links:
+  paper: https://arxiv.org/abs/2404.04393
+annotation: Compiles temporal counting logic K[#] directly into softmax-attention transformers, giving a constructive lower
+  bound and refining the logical characterization of soft-attention encoders.
+tags:
+- counting-logic
+- softmax
+- first-order-logic
+added: '2026-05-14'

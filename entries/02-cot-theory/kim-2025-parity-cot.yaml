@@ -1,0 +1,16 @@
+title: Transformers Provably Solve Parity Efficiently with Chain of Thought
+authors:
+- Juno Kim
+- Taiji Suzuki
+year: 2025
+venue: ICLR 2025 (Oral)
+category: cot-theory
+links:
+  paper: https://arxiv.org/abs/2410.08633
+annotation: Constructs a small transformer with CoT that learns and computes Parity using O(n) intermediate tokens and proves sample-efficient
+  learnability under SGD — the first end-to-end (expressivity + trainability) result on Parity for transformers.
+tags:
+- chain-of-thought
+- parity
+- learnability
+added: '2026-05-14'

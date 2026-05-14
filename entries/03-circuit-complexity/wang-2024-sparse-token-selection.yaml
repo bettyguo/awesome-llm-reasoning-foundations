@@ -1,0 +1,17 @@
+title: Transformers Provably Learn Sparse Token Selection While Fully-Connected Nets Cannot
+authors:
+- Zixuan Wang
+- Stanley Wei
+- Daniel Hsu
+- Jason D. Lee
+year: 2024
+venue: null
+category: circuit-complexity
+links:
+  paper: https://arxiv.org/abs/2406.06893
+annotation: Provides a learning separation between transformers and MLPs on a sparse-token-selection task, showing transformers
+  learn the task in polynomial samples while any polynomial-width MLP requires exponentially many.
+tags:
+- learning-separation
+- sparse
+added: '2026-05-14'

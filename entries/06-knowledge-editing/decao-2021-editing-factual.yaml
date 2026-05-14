@@ -1,0 +1,17 @@
+title: Editing Factual Knowledge in Language Models
+authors:
+- Nicola De Cao
+- Wilker Aziz
+- Ivan Titov
+year: 2021
+venue: EMNLP 2021
+category: knowledge-editing
+links:
+  paper: https://arxiv.org/abs/2104.08164
+annotation: Introduces KnowledgeEditor — a constrained-gradient method that updates a single fact while penalizing collateral changes
+  — the first formulation of locality/specificity tradeoffs that subsequent impossibility-style results probe.
+tags:
+- editing
+- locality
+- specificity
+added: '2026-05-14'

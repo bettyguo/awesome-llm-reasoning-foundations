@@ -1,0 +1,17 @@
+title: 'RNNs are not Transformers (Yet): The Key Bottleneck on In-context Retrieval'
+authors:
+- Kaiyue Wen
+- Xingyu Dang
+- Kaifeng Lyu
+year: 2024
+venue: null
+category: learnability
+links:
+  paper: https://arxiv.org/abs/2402.18510
+annotation: 'Proves a representational separation: RNNs of any polynomial size cannot perform in-context retrieval of length-Θ(n)
+  keys, while transformers can, identifying retrieval as a hard ceiling for non-attention sequence models.'
+tags:
+- RNN
+- in-context-retrieval
+- separation
+added: '2026-05-14'

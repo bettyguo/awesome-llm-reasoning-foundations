@@ -1,0 +1,25 @@
+title: Neural Networks and the Chomsky Hierarchy
+authors:
+- Grégoire Delétang
+- Anian Ruoss
+- Jordi Grau-Moya
+- Tim Genewein
+- Li Kevin Wenliang
+- Elliot Catt
+- Chris Cundy
+- Marcus Hutter
+- Shane Legg
+- Joel Veness
+- Pedro A. Ortega
+year: 2023
+venue: ICLR 2023
+category: expressivity
+links:
+  paper: https://arxiv.org/abs/2207.02098
+annotation: Empirically maps which Chomsky-hierarchy classes each architecture (RNN, LSTM, Transformer, Stack-RNN, NDStack-RNN, Tape-RNN)
+  generalizes on, providing the field's standard reference benchmark for architectural expressivity.
+tags:
+- chomsky-hierarchy
+- formal-languages
+- benchmark
+added: '2026-05-14'

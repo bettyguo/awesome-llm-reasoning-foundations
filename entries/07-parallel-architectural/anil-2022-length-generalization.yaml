@@ -1,0 +1,23 @@
+title: Exploring Length Generalization in Large Language Models
+authors:
+- Cem Anil
+- Yuhuai Wu
+- Anders Andreassen
+- Aitor Lewkowycz
+- Vedant Misra
+- Vinay Ramasesh
+- Ambrose Slone
+- Guy Gur-Ari
+- Ethan Dyer
+- Behnam Neyshabur
+year: 2022
+venue: NeurIPS 2022
+category: parallel-architectural
+links:
+  paper: https://arxiv.org/abs/2207.04901
+annotation: Shows that naive length extrapolation fails at every scale tested and that scratchpad-style intermediate-token supervision
+  is the primary lever that restores it — early empirical evidence for the CoT-as-compute-extension story.
+tags:
+- length-generalization
+- scratchpad
+added: '2026-05-14'
